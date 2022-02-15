@@ -1,2 +1,0 @@
-# Bikesharing
-Bike Sharing Assignments
